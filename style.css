@@ -1,0 +1,38 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+p {
+  color: green;
+}
+
+#myId {
+  color: purple;
+}
+
+.myClass {
+  color: pink;
+}
+
+.myParagraph {
+  color: green;
+}
+
+.myParagraph {
+  color: aqua;
+}
+
+.myUniversal {
+  color: yellow;
+}
+
+* {
+  color: blue;
+}
+
+h1,
+h2,
+h3 {
+  color: red;
+}
